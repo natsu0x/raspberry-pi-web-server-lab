@@ -1,5 +1,3 @@
-auto_nginx.sh
-
 apt -y update
 apt -y install nginx
 
